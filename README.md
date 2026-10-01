@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Simirna Blessy 👋
 
-<!--
-**simirnablessy/simirnablessy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science student (2027) and Data Analyst with internship experience building dashboards in Power BI and Excel.
 
-Here are some ideas to get you started:
+## What I do
+- Build interactive dashboards and reports
+- Clean and validate data
+- Turn data into clear business insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Analytics & BI:** Power BI, Excel, Google Sheets, Data Visualization
+**Data:** SQL, Python (basics), Data Cleaning, DBMS
+**Currently learning:** SQL (advanced), Python for data analysis
+
+## Projects
+- [Superstore Sales Analysis](https://github.com/simirnablessy/superstore-sales-powerbi-dashboard) – Power BI dashboard on sales, profit and discounts
+
+## Certifications
+- Deep Learning Specialization – DeepLearning.AI (Coursera)
+- Data Science & Analytics – HP LIFE
+- Programming in Python – SWAYAM
+
+## Connect with me
+- LinkedIn: [Simirna Blessy](https://www.linkedin.com/in/simirna-blessy-553935283)
+- Email: simirnablessyy@gmail.com
